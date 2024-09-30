@@ -1,0 +1,1 @@
+This project utilizes a simple algorithm that prioritizes the directions in which a pointer should take to traverse a maze from start to finish and print out a visual representation of that product. I originally coded it in school on a school repository and only recently transferred the code over to a personal repository to personally display my project on my profile.
